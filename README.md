@@ -215,4 +215,10 @@ src/
 
 ## License
 
+
+## 🔗 Related Projects
+
+- **Frontend Repository**: [Personal Book Tracker Frontend](https://github.com/mjsamaha/booktracker-frontend)
+
+
 This project is for demonstration purposes. Feel free to use and modify as needed.
